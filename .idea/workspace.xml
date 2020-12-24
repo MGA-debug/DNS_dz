@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a596fe6-2e21-4eaf-9e7b-05bc33e807d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lL6AI8bgNqbasgmLyURTYAXX9y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Properties" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\ru.dns-shopTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FirstTest.dnsTest">
+    <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.dns-shopTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dnsShop.freamwork.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dnsShop.freamwork.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.dnsShop.freamwork.tests.FirstTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.dnsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.dns-shopTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.dnsShop.freamwork.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.dnsShop.freamwork.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.dnsShop.freamwork.tests.FirstTest" />
+      <option name="METHOD_NAME" value="dnsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstTest.dnsTest" />
+        <item itemvalue="JUnit.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a596fe6-2e21-4eaf-9e7b-05bc33e807d6" name="Default Changelist" comment="" />
+      <created>1607363881029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607363881029</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607365988182">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="528" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1607365988181" />
+    <state x="605" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1607439941164">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1607439941164" />
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607437612972">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1607437612972" />
+    <state width="1557" height="266" key="GridCell.Tab.0.bottom" timestamp="1607527011404">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607527011404" />
+    <state width="1557" height="266" key="GridCell.Tab.0.center" timestamp="1607527011403">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1607527011403" />
+    <state width="1557" height="266" key="GridCell.Tab.0.left" timestamp="1607527011403">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1607527011403" />
+    <state width="1557" height="266" key="GridCell.Tab.0.right" timestamp="1607527011404">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1607527011404" />
+    <state width="1557" height="266" key="GridCell.Tab.1.bottom" timestamp="1607527011406">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607527011406" />
+    <state width="1557" height="266" key="GridCell.Tab.1.center" timestamp="1607527011405">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1607527011405" />
+    <state width="1557" height="266" key="GridCell.Tab.1.left" timestamp="1607527011404">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1607527011404" />
+    <state width="1557" height="266" key="GridCell.Tab.1.right" timestamp="1607527011406">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1607527011406" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1607366369663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1607366369663" />
+    <state x="346" y="166" width="908" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607509383873">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="346" y="166" width="908" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1607509383873" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1607455668663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1607455668663" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="app.getHomePage()&#10;                .inputInSearchString(&quot;playstation&quot;)&#10;                .selectAndFindProduct(&quot;playstation 4 slim black&quot;)&#10;                .rememberThePrice(&quot;PlayStation&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
